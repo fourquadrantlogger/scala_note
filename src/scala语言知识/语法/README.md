@@ -7,3 +7,7 @@ df.format(now)
 等同于
 
 df format now
+
+## var name:type = initialization
+
+
